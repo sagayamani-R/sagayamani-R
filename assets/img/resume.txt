@@ -1,0 +1,52 @@
+	SAGAYAMANI R	
+					
+	SOFTWARE TESTER	
+					
+	CONTACT
+		PROFILE
+		
+	8072713583
+rsmani07@outlook.com
+www.linkedin.com/in/sagayamani-r-1720as
+https://github.com/sagayamani-R
+		A motivated and detail-oriented recent graduate with a degree in Master of Computer Application . Seeking a software tester position to leverage my skills in software testing, quality assurance, and problem-solving to contribute to the success .	
+	SKILLS 
+		PROJECTS 			
+	SQL
+JAVA
+HTML
+CSS
+
+		
+E-VOTING USING BLOCKCHAIN :
+An online voting project build with java using AES and RSA algorithms
+
+BMT(BIKE MODIFICATION TOOLS) 
+An E-commerce website made with HTML , CSS , PHP , JAVASCRIPT and MYSQL .
+
+AMAZON STOCK PRICE PREDICTION ;
+A python project to predict the stock price of the Amazon stock using KNN algorithm .
+
+
+
+
+
+ADDITIONAL
+_______________
+
+Participated , Presented and Published research paper in International conference “ Transforming Business , Economy & Environment : Strategies for Sustainability ”
+
+Participated in International conference on “ Recent Trends in Computing and Technologies “	
+	EDUCATION
+			
+	UG
+Apollo Arts and Science College
+2020 - 2023
+Bachelor of Computer Science
+Percentage – 85%
+
+PG
+New Prince Shri Bhavani College of Engineering and Technology
+2023 - 2025
+Master of Computer Application			
+
